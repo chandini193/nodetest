@@ -1,0 +1,24 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "this is a directory to learn git and init",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandini193/nodetest.git"
+  },
+  "author": "chandini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chandini193/nodetest/issues"
+  },
+  "homepage": "https://github.com/chandini193/nodetest#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
